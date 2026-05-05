@@ -9,7 +9,7 @@
 
 | PCB Top View | Assembled & Running |
 |---|---|
-| ![FM Radio PCB](../images/fm-radio.jpg) | ![FM Radio Running](../images/fm-radio-2.jpg) |
+| ![FM Radio PCB](fm-radio-2.jpg) | ![FM Radio Running](fm-radio.jpg) |
 
 ---
 
