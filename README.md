@@ -15,7 +15,7 @@
 
 ## Demo Video
 
-[![FM-88K Auto-Scan Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=odUC82ftNBk)
+[![FM-88K Auto-Scan Demo](https://img.youtube.com/vi/odUC82ftNBk/maxresdefault.jpg)](https://www.youtube.com/watch?v=odUC82ftNBk)
 
 *Click the thumbnail to watch the auto-scan demo — receiver scanning from 88 MHz, locking onto stations, and producing audio output.*
 
